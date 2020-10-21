@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAW;EAEV,MAAM,EAAE,IAAI;EACZ,KAAK,EAAG,MAAM;EACd,gBAAgB,EAAG,OAAO",
+"sources": ["costum.scss"],
+"names": [],
+"file": "costum.css"
+}

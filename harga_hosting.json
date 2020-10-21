@@ -1,0 +1,24 @@
+
+  [
+    {
+
+      "Paketbayi_sebelumdiskon": "Rp 19.900",
+      "Paketbayi_sesudahdiskon": "Rp 14.900",
+
+      "Paketpelajar_sebelumdiskon": "Rp 46.900",
+      "Paketpelajar_sesudahdiskon": "Rp 23.450",
+
+      "Paketpersonal_sebelumdiskon": "Rp 58.900",
+      "Paketpersonal_sesudahdiskon": "Rp 38.900",
+
+      "Paketbisnis_sebelumdiskon": "Rp 109.900",
+      "Paketbisnis_sesudahdiskon": "Rp 65.900",
+
+      "Pelanggan_paketbayi": "938",
+      "Pelanggan_paketpelajar": "4.168",
+      "Pelanggan_paketpersonal": "10.017",
+      "Pelanggan_paketbisnis": "3.552"
+
+    }
+
+  ]
